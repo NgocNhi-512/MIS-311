@@ -2,8 +2,7 @@
 ## Introduction to Business Analytics
 *Data Analysis and Insight*
 ### **Data Overview**  
-Data Overview
-- Source of data: 
+- Source of data: Tourism dataset compiled from publicly available tourism statistics and World Bank international arrivals data.
 - Number of rows: 206 rows
 - Number of columns: 6 columns
 The context: This dataset contains tourism-related information about the most visited countries in the world, including international tourist arrivals, predicted visitor numbers for 2024, historical arrivals from 2022–2023, and World Bank tourism data. The analysis aims to identify global tourism trends, compare country performance, and generate meaningful business insights using Exploratory Data Analysis (EDA).
