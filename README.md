@@ -67,8 +67,13 @@ The regression coefficient indicates that for every additional 1 million tourist
 **Coefficient of Determination (R²):**  
 R² = 0.9863
 
+### Key Observations
+- Countries with the highest tourist arrivals in 2022 also remained top destinations in 2023.
+- The majority of data points are closely clustered around the regression line, showing a consistent growth trend across countries.
+- Only minor deviations from the trend line are observed, suggesting low variability and strong market stability.
 
-
+### Business Implications for GiftHub
+The continuous growth in tourist arrivals suggests that countries with strong tourism performance may also have higher demand for gifts, souvenirs, and personalized shopping services. GiftHub can use this insight to identify potential markets, improve demand forecasting, and focus marketing efforts on destinations with stable tourism growth.
 
 
 
