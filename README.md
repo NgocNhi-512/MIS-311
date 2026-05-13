@@ -10,23 +10,23 @@ The context: This dataset contains tourism-related information about the most vi
 ### **Data Cleaning**
 Before conducting the analysis, the dataset was checked for missing values, duplicate rows, and formatting issues to improve data quality and reliability.
 
- *  Missing Values
+ * Missing Values:
 A total of **501 missing values** were identified across several columns in the dataset. These missing values were reviewed and handled appropriately during the cleaning process to minimise their impact on the analysis.
 
- * Duplicate Rows
+ * Duplicate Rows:
 A total of **3 duplicate rows** were identified and removed to ensure consistency and accuracy in the dataset.
 
- * Data Types
-- Numerical columns: tourist arrivals data
-- Categorical column: country names
+ * Data Types:
+Numerical columns: tourist arrivals data
+Categorical column: country names
   
  * Outlier Analysis
-- Some countries, especially the United States and the United Kingdom, showed unusually high tourist arrival values compared to others. These outliers were kept as they reflect actual tourism patterns.
+Some countries, especially the United States and the United Kingdom, showed unusually high tourist arrival values compared to others. These outliers were kept as they reflect actual tourism patterns.
 
 ### Data Cleaning Summary
-- The dataset contained 501 missing values and 3 duplicate rows.
-- Duplicate rows were removed during preprocessing.
-- After cleaning, the final dataset consisted of 18 rows and 6 columns ready for analysis.
+The dataset contained 501 missing values and 3 duplicate rows.
+Duplicate rows were removed during preprocessing.
+After cleaning, the final dataset consisted of 17 rows and 6 columns ready for analysis.
 ### **Descriptive Statistics**  
 
 <img src="tourist-arrivals-2022-2024.png" width="700">
@@ -42,4 +42,6 @@ The United States is predicted to attract the highest number of international to
 Spain also records strong tourism demand with 64.5 million visitors, while Saudi Arabia, Portugal, and Poland continue to grow as important destinations.  
 
 Meanwhile, the Netherlands, Mexico, and Italy are predicted to receive lower visitor numbers compared to the leading countries, showing that global tourism demand is concentrated among a few major destinations.
+
+
 
