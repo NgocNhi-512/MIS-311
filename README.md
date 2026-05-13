@@ -19,3 +19,5 @@ A total of **3 duplicate rows** were identified and removed to ensure consistenc
 
  * Data Formatting
 Numerical and text columns were standardised to improve readability and support accurate analysis and visualisation.
+
+<img src="tourist-arrivals-2022-2024.png" width="700">
