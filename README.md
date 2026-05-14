@@ -88,5 +88,4 @@ This project also reflects my personal interest in finance and business analytic
 
 - Na, Z. (2024). *GitHub Profile*. GitHub. Retrieved from https://github.com/Zhenye-Na
 
-- World Bank. (2024). *International tourism statistics*. Retrieved from https://www.worldbank.org/
-
+- Course Dataset. (2026). *Most visted countries* [Excel dataset]. MIS 311 – Introduction to Business Analytics, Eastern International University.
