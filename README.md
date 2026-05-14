@@ -60,12 +60,12 @@ The analysis reveals a very strong positive linear relationship between tourist 
 
 ### Regression Analysis
 **Regression Equation:**  
-y = 1.2102x + 0.4717
+<p align="center"> y = 1.2102x + 0.4717
 
 The regression coefficient indicates that for every additional 1 million tourist arrivals in 2022, tourist arrivals in 2023 increased by approximately 1.21 million. This suggests that tourism demand not only recovered after 2022 but continued to grow strongly in 2023.
 
 **Coefficient of Determination (R²):**  
-R² = 0.9863
+<p align="center"> R² = 0.9863
 
 ### Key Observations
 - Countries with the highest tourist arrivals in 2022 also remained top destinations in 2023.
