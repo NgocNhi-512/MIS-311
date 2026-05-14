@@ -5,7 +5,10 @@
 - Source of data: Tourism dataset compiled from publicly available tourism statistics and World Bank international arrivals data.
 - Number of rows: 206 rows
 - Number of columns: 6 columns
-The context: This dataset contains tourism-related information about the most visited countries in the world, including international tourist arrivals, predicted visitor numbers for 2024, historical arrivals from 2022–2023, and World Bank tourism data. The analysis aims to identify global tourism trends, compare country performance, and generate meaningful business insights using Exploratory Data Analysis (EDA).
+
+The context: This dataset contains tourism-related information about the most visited countries in the world, including international tourist arrivals, predicted visitor numbers for 2024, historical arrivals from 2022–2023, and World Bank tourism data. 
+
+The analysis aims to identify global tourism trends, compare country performance, and generate meaningful business insights using Exploratory Data Analysis (EDA).
 
 ### **Data Cleaning**
 Before conducting the analysis, the dataset was checked for missing values, duplicate rows, and formatting issues to improve data quality and reliability.
@@ -26,12 +29,11 @@ Categorical column: country names
   
  * Outlier Analysis
 
-Some countries, especially the United States and the United Kingdom, showed unusually high tourist arrival values compared to others. These outliers were kept as they reflect actual tourism patterns.
+Countries such as France, Spain, and the United States showed unusually high tourist arrival values compared to other countries in the dataset. These outliers were retained because they represent actual tourism patterns.
 
 ### Data Cleaning Summary
-The dataset contained 501 missing values and 3 duplicate rows.
-Duplicate rows were removed during preprocessing.
-After cleaning, the final dataset consisted of 17 rows and 6 columns ready for analysis.
+After cleaning and preprocessing, the final dataset contained 17 rows and 6 columns ready for analysis.
+
 ### **Descriptive Statistics**  
 
 <p align="center">
@@ -43,17 +45,14 @@ The average number of international tourist arrivals increased from **31.41 mill
 The chart highlights the top predicted tourist destinations in 2024 based on international tourist arrivals.
 
 <p align="center">
-<img src="top-10-predicted-destinations-2024.png" width="600">
+<img src="Top 10 Most Visited Countries in 2024.png" width="600">
 
-The United States is predicted to attract the highest number of international tourists in 2024 with 89.4 million visitors, followed by the United Kingdom (83.7 million) and the United Arab Emirates (79.3 million).  
+France was predicted to attract the highest number of international tourists in 2024, followed by Spain and the United States. This suggests that countries with strong tourism infrastructure, famous attractions, and global popularity continue to dominate the global tourism industry. These insights may help tourism businesses and governments improve planning, marketing strategies, and tourism services.
 
-Spain also records strong tourism demand with 64.5 million visitors, while Saudi Arabia, Portugal, and Poland continue to grow as important destinations.  
-
-Meanwhile, the Netherlands, Mexico, and Italy are predicted to receive lower visitor numbers compared to the leading countries, showing that global tourism demand is concentrated among a few major destinations.
 
 - **Insight 2:**  Strong Correlation Between 2022 and 2023 Tourist Arrivals
 
-The analysis reveals a very strong positive linear relationship between tourist arrivals in 2022 and 2023. Countries that attracted a large number of tourists in 2022 generally continued to experience high tourist inflows in 2023.
+The scatterplot shows a strong positive relationship between tourist arrivals in 2022 and 2023. Countries with high visitor numbers in 2022 generally continued to attract many tourists in 2023, indicating a steady recovery in global tourism after COVID-19. These findings can help businesses and policymakers better predict future tourism demand and prepare tourism services more effectively.
 
 <p align="center">
   <img src="tourist_arrivals_2022_2023_scatterplot.jpg" width="600">
@@ -69,11 +68,11 @@ The regression coefficient indicates that for every additional 1 million tourist
 
 ### Key Observations
 - Countries with the highest tourist arrivals in 2022 also remained top destinations in 2023.
-- The majority of data points are closely clustered around the regression line, showing a consistent growth trend across countries.
-- Only minor deviations from the trend line are observed, suggesting low variability and strong market stability.
+- Most data points are closely grouped around the trend line, showing a consistent growth pattern across countries.
+- Only  deviations from the trend line are observed, suggesting stable tourism growth overall.
 
-### Business Implications for GiftHub
-The continuous growth in tourist arrivals suggests that countries with strong tourism performance may also have higher demand for gifts, souvenirs, and personalized shopping services. GiftHub can use this insight to identify potential markets, improve demand forecasting, and focus marketing efforts on destinations with stable tourism growth.
+### Implications Of The Findings
 
+The findings show that global tourism is recovering strongly after COVID-19, especially in countries like France, Spain, and the United States, which continue to attract many international tourists. The increase in tourist arrivals from 2022 to 2023 and the high predictions for 2024 suggest that tourism demand will continue to grow. These insights can help governments and tourism businesses improve planning, marketing, and tourist services.
 
-
+This project also reflects my personal interest in finance and business analytics. I enjoyed combining data analysis, visualisation, and business thinking to explore real-world tourism trends in a more creative and meaningful way. The portfolio highlights both my analytical skills and my curiosity about how data can support better business decisions.
