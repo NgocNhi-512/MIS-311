@@ -2,7 +2,7 @@
 ## Introduction to Business Analytics
 *Data Analysis and Insight*
 
-# Global Tourism Trends Analysis (2022–2024)
+## Global Tourism Trends Analysis (2022–2024)
 ### **Data Overview**  
 - Source of data: Tourism dataset compiled from publicly available tourism statistics and World Bank international arrivals data.
 - Number of rows: 206 rows
@@ -44,16 +44,16 @@ After cleaning and preprocessing, the final dataset contained 17 rows and 6 colu
 
 The average number of international tourist arrivals increased from **31.41 million in 2022** to **38.49 million in 2023**, indicating a strong recovery in global tourism. The predicted average for 2024 remains high at approximately **38.32 million visitors**, suggesting continued tourism growth worldwide.
 
-- **Insight 1** 
+### Insight 1: Top Predicted Tourist Destinations in 2024
 The chart highlights the top predicted tourist destinations in 2024 based on international tourist arrivals.
 
 <p align="center">
 <img src="Top 10 Most Visited Countries in 2024.png" width="600">
 
-France was predicted to attract the highest number of international tourists in 2024, followed by Spain and the United States. This suggests that countries with strong tourism infrastructure, famous attractions, and global popularity continue to dominate the global tourism industry. These insights may help tourism businesses and governments improve planning, marketing strategies, and tourism services.
+France is predicted to attract the highest number of international tourists in 2024, followed by Spain and the United States. This suggests that countries with strong tourism infrastructure, famous attractions, and global popularity continue to dominate the global tourism industry. These insights may help tourism businesses and governments improve planning, marketing strategies, and tourism services.
 
 
-- **Insight 2:**  Strong Correlation Between 2022 and 2023 Tourist Arrivals
+### Insight 2: Strong Correlation Between 2022 and 2023 Tourist Arrivals
 
 The scatterplot shows a strong positive relationship between tourist arrivals in 2022 and 2023. Countries with high visitor numbers in 2022 generally continued to attract many tourists in 2023, indicating a steady recovery in global tourism after COVID-19. These findings can help businesses and policymakers better predict future tourism demand and prepare tourism services more effectively.
 
@@ -74,7 +74,7 @@ The regression coefficient indicates that for every additional 1 million tourist
 - Most data points are closely grouped around the trend line, showing a consistent growth pattern across countries.
 - Only small deviations from the trend line are observed, suggesting stable tourism growth overall.
 
-### Implications Of The Findings
+### Implications of the Findings
 
 The findings show that global tourism is recovering strongly after COVID-19, especially in countries like France, Spain, and the United States, which continue to attract many international tourists. The increase in tourist arrivals from 2022 to 2023 and the high predicted tourist arrivals for 2024 suggest that tourism demand will continue to grow. These insights can help governments and tourism businesses improve planning, marketing, and tourist services.
 
