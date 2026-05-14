@@ -1,12 +1,16 @@
 # MIS-311
 ## Introduction to Business Analytics
 *Data Analysis and Insight*
+
+# Global Tourism Trends Analysis (2022–2024)
 ### **Data Overview**  
 - Source of data: Tourism dataset compiled from publicly available tourism statistics and World Bank international arrivals data.
 - Number of rows: 206 rows
 - Number of columns: 6 columns
 
-The context: This dataset contains tourism-related information about the most visited countries in the world, including international tourist arrivals, predicted visitor numbers for 2024, historical arrivals from 2022–2023, and World Bank tourism data. 
+### Context of the Dataset
+
+This dataset contains tourism-related information about the most visited countries in the world, including international tourist arrivals, predicted visitor numbers for 2024, historical arrivals from 2022–2023, and World Bank tourism data.
 
 The analysis aims to identify global tourism trends, compare country performance, and generate meaningful business insights using Exploratory Data Analysis (EDA).
 
@@ -23,9 +27,8 @@ A total of **3 duplicate rows** were identified and removed to ensure consistenc
 
  * Data Types:
 
-Numerical columns: tourist arrivals data
-
-Categorical column: country names
+- **Numerical columns:** Tourist arrivals data  
+- **Categorical column:** Country names
   
  * Outlier Analysis
 
@@ -67,12 +70,12 @@ The regression coefficient indicates that for every additional 1 million tourist
 <p align="center"> R² = 0.9863
 
 ### Key Observations
-- Countries with the highest tourist arrivals in 2022 also remained top destinations in 2023.
+- Countries with high tourist arrivals in 2022 also remained popular destinations in 2023.
 - Most data points are closely grouped around the trend line, showing a consistent growth pattern across countries.
-- Only  deviations from the trend line are observed, suggesting stable tourism growth overall.
+- Only small deviations from the trend line are observed, suggesting stable tourism growth overall.
 
 ### Implications Of The Findings
 
-The findings show that global tourism is recovering strongly after COVID-19, especially in countries like France, Spain, and the United States, which continue to attract many international tourists. The increase in tourist arrivals from 2022 to 2023 and the high predictions for 2024 suggest that tourism demand will continue to grow. These insights can help governments and tourism businesses improve planning, marketing, and tourist services.
+The findings show that global tourism is recovering strongly after COVID-19, especially in countries like France, Spain, and the United States, which continue to attract many international tourists. The increase in tourist arrivals from 2022 to 2023 and the high predicted tourist arrivals for 2024 suggest that tourism demand will continue to grow. These insights can help governments and tourism businesses improve planning, marketing, and tourist services.
 
 This project also reflects my personal interest in finance and business analytics. I enjoyed combining data analysis, visualisation, and business thinking to explore real-world tourism trends in a more creative and meaningful way. The portfolio highlights both my analytical skills and my curiosity about how data can support better business decisions.
