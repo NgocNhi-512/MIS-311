@@ -14,6 +14,8 @@ This dataset contains tourism-related information about the most visited countri
 
 The analysis aims to identify global tourism trends, compare country performance, and generate meaningful business insights using Exploratory Data Analysis (EDA).
 
+Data Preparation and Cleaning
+
 ### **Data Cleaning**
 Before conducting the analysis, the dataset was checked for missing values, duplicate rows, and formatting issues to improve data quality and reliability.
 
