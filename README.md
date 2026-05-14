@@ -81,3 +81,12 @@ The regression coefficient indicates that for every additional 1 million tourist
 The findings show that global tourism is recovering strongly after COVID-19, especially in countries like France, Spain, and the United States, which continue to attract many international tourists. The increase in tourist arrivals from 2022 to 2023 and the high predicted tourist arrivals for 2024 suggest that tourism demand will continue to grow. These insights can help governments and tourism businesses improve planning, marketing, and tourist services.
 
 This project also reflects my personal interest in finance and business analytics. I enjoyed combining data analysis, visualisation, and business thinking to explore real-world tourism trends in a more creative and meaningful way. The portfolio highlights both my analytical skills and my curiosity about how data can support better business decisions.
+
+## References
+
+- GitHub Docs. (2024). *Getting started with GitHub*. Retrieved from https://docs.github.com/
+
+- Na, Z. (2024). *GitHub Profile*. GitHub. Retrieved from https://github.com/Zhenye-Na
+
+- World Bank. (2024). *International tourism statistics*. Retrieved from https://www.worldbank.org/
+
