@@ -29,8 +29,8 @@ A total of **3 duplicate rows** were identified and removed to ensure consistenc
 
  * Data Types:
 
-- **Numerical columns:** Tourist arrivals data  
-- **Categorical column:** Country names
+ **Numerical columns:** Tourist arrivals data  
+ **Categorical column:** Country names
   
  * Outlier Analysis
 
