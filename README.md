@@ -27,7 +27,7 @@ A total of **501 missing values** were identified across several columns in the 
 
 Total exact duplicate rows: **3**
 
-Duplicate entries
+Duplicate entries:
 - Brunei
 - Eritrea
 - Montenegro
@@ -39,7 +39,7 @@ These rows are fully duplicated, meaning every column contains the same values. 
  **Numerical columns:** Tourist arrivals data  
  **Categorical column:** Country names
   
- * Outlier Analysis
+ * Outlier Analysis:
 
 Countries such as France, Spain, and the United States showed unusually high tourist arrival values compared to other countries in the dataset. These outliers were retained because they represent actual tourism patterns.
 
@@ -78,7 +78,7 @@ The regression coefficient indicates that for every additional 1 million tourist
 **Coefficient of Determination (R²):**  
 <p align="center"> R² = 0.9863
 
-### Key Observations
+### Key Observations:
 - Countries with high tourist arrivals in 2022 also remained popular destinations in 2023.
 - Most data points are closely grouped around the trend line, showing a consistent growth pattern across countries.
 - Only small deviations from the trend line are observed, suggesting stable tourism growth overall.
