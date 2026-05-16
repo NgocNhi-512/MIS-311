@@ -23,9 +23,16 @@ Before conducting the analysis, the dataset was checked for missing values, dupl
 
 A total of **501 missing values** were identified across several columns in the dataset. These missing values were reviewed and handled appropriately during the cleaning process to minimise their impact on the analysis.
 
- * Duplicate Rows:
+* Duplicate Rows:
 
-A total of **3 duplicate rows** were identified and removed to ensure consistency and accuracy in the dataset.
+Total exact duplicate rows: **3**
+
+Duplicate entries
+- Brunei
+- Eritrea
+- Montenegro
+
+These rows are fully duplicated, meaning every column contains the same values. They were identified and removed to ensure consistency and accuracy in the dataset.
 
  * Data Types:
 
