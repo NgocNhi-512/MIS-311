@@ -89,3 +89,4 @@ This project also reflects my personal interest in finance and business analytic
 - Na, Z. (2024). *GitHub Profile*. GitHub. Retrieved from https://github.com/Zhenye-Na
 
 - Course Dataset. (2026). *Most visted countries* [Excel dataset]. MIS 311 – Introduction to Business Analytics, Eastern International University.
+- GitHub. (n.d.). *[Start your journey](https://docs.github.com/en/get-started/start-your-journey)*. GitHub Docs.
