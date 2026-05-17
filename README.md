@@ -93,7 +93,5 @@ This project also reflects my personal interest in finance and business analytic
 
 ## References
 
-- GitHub Docs. (2024). *Getting started with GitHub*. Retrieved from https://docs.github.com/
-
 - Na, Z. (2024). *GitHub Profile*. GitHub. Retrieved from https://github.com/Zhenye-Na
 
