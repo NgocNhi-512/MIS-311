@@ -78,6 +78,8 @@ The regression coefficient indicates that for every additional 1 million tourist
 **Coefficient of Determination (R²):**  
 <p align="center"> R² = 0.9863
 
+The R² value of 0.9863 indicates a very strong relationship between tourist arrivals in 2022 and 2023. Approximately 98.63% of the variation in 2023 tourist arrivals can be explained by 2022 tourist arrivals.
+
 ### Key Observations:
 - Countries with high tourist arrivals in 2022 also remained popular destinations in 2023.
 - Most data points are closely grouped around the trend line, showing a consistent growth pattern across countries.
@@ -87,7 +89,7 @@ The regression coefficient indicates that for every additional 1 million tourist
 
 The findings show that global tourism is recovering strongly after COVID-19, especially in countries like France, Spain, and the United States, which continue to attract many international tourists. The increase in tourist arrivals from 2022 to 2023 and the high predicted tourist arrivals for 2024 suggest that tourism demand will continue to grow. These insights can help governments and tourism businesses improve planning, marketing, and tourist services.
 
-This project also reflects my personal interest in finance and business analytics. I enjoyed combining data analysis, visualisation, and business thinking to explore real-world tourism trends in a more creative and meaningful way. The portfolio highlights both my analytical skills and my curiosity about how data can support better business decisions.
+This project also reflects my personal interest in finance and business analytics. I enjoyed combining data analysis, visualisation, and business thinking to explore real-world tourism trends in a more creative and meaningful way. The portfolio highlights the importance of analytical skills to show how data can support better business decisions.
 
 ## References
 
@@ -95,5 +97,3 @@ This project also reflects my personal interest in finance and business analytic
 
 - Na, Z. (2024). *GitHub Profile*. GitHub. Retrieved from https://github.com/Zhenye-Na
 
-- Course Dataset. (2026). *Most visted countries* [Excel dataset]. MIS 311 – Introduction to Business Analytics, Eastern International University.
-- GitHub. (n.d.). *[Start your journey](https://docs.github.com/en/get-started/start-your-journey)*. GitHub Docs.
